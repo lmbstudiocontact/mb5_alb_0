@@ -1,142 +1,130 @@
 [
   {
-    "title": "Molang_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51700748211_d1f6ef175e_o.gif",
-    "id_album": "-1608694438",
-    "total": 104,
-    "size_max_detail_page": 3,
+    "title": "Cute Art_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51787836584_80c2e78efa_o.gif",
+    "id_album": "-629963487",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1608694438_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963487_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1608694438_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1608694438_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963487_index_1.json"
       }
     ]
   },
   {
-    "title": "One Piece Anime_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51780242106_baf17a7d34_o.gif",
-    "id_album": "1351456607",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Seven deadly sins Anime_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51788133450_91c9fb5216_o.gif",
+    "id_album": "1802210938",
+    "total": 43,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456607_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456607_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456607_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1802210938_index_0.json"
       }
     ]
   },
   {
-    "title": "Ragnarok_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51704220425_4d861fae92_o.gif",
-    "id_album": "1601322209",
+    "title": "Angry Birds_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787447088_c332619538_o.gif",
+    "id_album": "2112729290",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729290_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Angry Birds_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51787844324_2fdf12a449_o.gif",
+    "id_album": "2112729292",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729292_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Kitty & My Melody_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787506038_e768283934_o.gif",
+    "id_album": "-378480543",
+    "total": 76,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480543_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480543_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Light_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787493188_4483b15341_o.gif",
+    "id_album": "1056603475",
+    "total": 80,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1056603475_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1056603475_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Ragnarok_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51788120775_f77a34589f_o.gif",
+    "id_album": "1601322213",
     "total": 15,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1601322209_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1601322213_index_0.json"
       }
     ]
   },
   {
-    "title": "Fox Art_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51781083050_dd60e692b1_o.gif",
-    "id_album": "-646110859",
-    "total": 7,
+    "title": "Donald Duck Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51788076395_97df286d89_o.gif",
+    "id_album": "-1917621483",
+    "total": 4,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110859_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1917621483_index_0.json"
       }
     ]
   },
   {
-    "title": "Music_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51700102417_bcb03265e2_o.gif",
-    "id_album": "908522979",
-    "total": 24,
+    "title": "Pig_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51786433462_b7f380d699_o.gif",
+    "id_album": "-1904503332",
+    "total": 38,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522979_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Buddhist Terms_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51780155356_37bcbefd51_o.gif",
-    "id_album": "518853929",
-    "total": 13,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853929_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Wolf_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51704253578_cb44cca1d2_o.gif",
-    "id_album": "-1110849963",
-    "total": 5,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849963_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Kitty & My Melody_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51779377932_cab4e1b515_o.gif",
-    "id_album": "-378480542",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Kitty & My Melody_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51780870484_e20d881662_o.gif",
-    "id_album": "-378480541",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480541_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480541_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1904503332_index_0.json"
       }
     ]
   }

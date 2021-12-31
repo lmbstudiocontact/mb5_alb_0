@@ -1,122 +1,130 @@
 [
   {
-    "title": "Butterfly_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51695573513_89f68aa8a8_o.gif",
-    "id_album": "657564371",
-    "total": 6,
+    "title": "Joker Harley Quinn_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51787522743_25332da740_o.gif",
+    "id_album": "-2022175637",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_657564371_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175637_index_0.json"
       }
     ]
   },
   {
-    "title": "Simpsons Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51780963369_9ff0c046e1_n.jpg",
-    "id_album": "1276946592",
-    "total": 8,
+    "title": "Joker Harley Quinn_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51788117095_b429e0ac99_o.gif",
+    "id_album": "-2022175633",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1276946592_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175633_index_0.json"
       }
     ]
   },
   {
-    "title": "Football_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51698111535_6e86e472dd_o.gif",
-    "id_album": "-371026089",
-    "total": 49,
+    "title": "Pokmon Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51787506163_f02138fc9b_o.gif",
+    "id_album": "-555824144",
+    "total": 108,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824144_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824144_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-555824144_index_2.json"
+      }
+    ]
+  },
+  {
+    "title": "Onmyoji_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787521138_bd384ef2b6_o.gif",
+    "id_album": "389318915",
+    "total": 26,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-371026089_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_389318915_index_0.json"
       }
     ]
   },
   {
-    "title": "Buddhist Terms_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51779325877_c8951b1415_o.gif",
-    "id_album": "518853932",
-    "total": 13,
+    "title": "Monkey_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787912799_2099df535f_o.gif",
+    "id_album": "444828982",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853932_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_444828982_index_0.json"
       }
     ]
   },
   {
-    "title": "Wolf_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51704260673_655dc8c8a7_o.gif",
-    "id_album": "-1110849962",
-    "total": 5,
+    "title": "Plants Vs Zombies_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51788156410_5d79a371a0_o.gif",
+    "id_album": "-1426777466",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849962_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1426777466_index_0.json"
       }
     ]
   },
   {
-    "title": "Panda_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51702595213_5fc5cc1f9d_o.gif",
-    "id_album": "1123959311",
-    "total": 11,
+    "title": "Shiv_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51788127940_9f3a370286_o.gif",
+    "id_album": "-568595356",
+    "total": 32,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1123959311_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-568595356_index_0.json"
       }
     ]
   },
   {
-    "title": "Death Note Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780814234_f7bf0a7866_o.gif",
-    "id_album": "-374116174",
-    "total": 8,
+    "title": "Ghibli Anime_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51786423317_f58eacf8c5_o.gif",
+    "id_album": "-749595043",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-374116174_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-749595043_index_0.json"
       }
     ]
   },
   {
-    "title": "Donald Duck Cartoon_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51781078710_96f8534588_o.gif",
-    "id_album": "-1917621483",
-    "total": 4,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1917621483_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Cute Art_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51779333622_3000f7f715_o.gif",
-    "id_album": "-629963486",
-    "total": 76,
+    "title": "Dau Mam_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51786395327_e6d43af14c_o.gif",
+    "id_album": "-1324347432",
+    "total": 78,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347432_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347432_index_1.json"
       }
     ]
   }
